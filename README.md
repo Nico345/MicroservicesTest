@@ -22,5 +22,5 @@ Sadly, I had no time for Unit tests or to test the Dockerfiles, but the code sho
 
 ---
 PS: I had already uploaded everything before realizing it should be only the src folder. However, I had developed the dockerfile with the idea of using a .jar (maybe it wasn't the best idea, but I had done it in another project before and ended up doing it that way), so I would still need access to the target folder.
----
+
 PSS: Como el pdf venía en inglés, lo escribí todo (o casi todo) en inglés para no andar saltando entre idiomas. Perdón por los posibles fallos ;)
