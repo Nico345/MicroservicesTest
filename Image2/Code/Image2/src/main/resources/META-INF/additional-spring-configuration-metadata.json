@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "api.token",
+    "type": "java.lang.String",
+    "description": "Token needed for authentication'"
+  },
+  {
+    "name": "api.url",
+    "type": "java.lang.String",
+    "description": "Jenkins Url'"
+  }
+]}
